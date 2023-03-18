@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deFare00
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning JavaScript & Python
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me 
   Instagram : @defanugraha_
   Twitter   : @defanugraha
